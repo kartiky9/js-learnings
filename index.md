@@ -13,4 +13,4 @@ The content here might be categorized with increase in documentation.
 
 ### Table of Contents
 * Core
-	* [var/let/const](./var-let-const.md)
+	* [var/let/const](./core/var-let-const.md)
