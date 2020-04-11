@@ -10,3 +10,7 @@ Complete end to end guide of certain topic or this will not get you started on p
 All things documented/noted here are entirely random and does not contain any specific order.
 
 The content here might be categorized with increase in documentation.
+
+### Table of Contents
+* Core
+	* [var/let/const](./var-let-const.md)
