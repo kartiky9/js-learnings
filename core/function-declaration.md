@@ -1,4 +1,4 @@
-# Different ways function declarations
+# Different ways of function declarations
 And what is each signify
 
 Note: Documented as per ES6 applicable in ES9 as well
