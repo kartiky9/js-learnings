@@ -12,3 +12,4 @@ Complete end to end guide of certain topic or this will not get you started on p
 ### Table of Contents
 * Core
 	* [var-let-const](./core/var-let-const.md)
+	* [Different function declarations](./core/function-declarations.md)
