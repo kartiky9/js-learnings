@@ -1,9 +1,9 @@
 # Difference between var, let and const
 This doc is based on ES6 and suitable for ES9 (2020) as well.
 
-## `var`
+## var
 
-### Scope `var`
+### Scope of `var`
 
 * Global scoped or Locally/Function Scoped
 
@@ -47,7 +47,7 @@ console.log(name) //prints undefined
 name = "John Doe"
 ```
 
-## `let`
+## let
 ### Scope of `let`
 
 Follows same scope features as that of `var`.
@@ -75,7 +75,7 @@ console.log(name) // gives ReferenceError
 let name = "John Doe"
 ```
 
-## `const`
+## const
 ### Scope of `const`
 * Scope of `const` is same as that of `let`
 * `const` variables cannot be updated or redeclared
