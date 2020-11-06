@@ -13,3 +13,6 @@ Complete end to end guide of certain topic or this will not get you started on p
 * Core
 	* [var-let-const](./core/var-let-const.md)
 	* [Different function declarations](./core/function-declaration.md)
+	
+### Videos/Playlist
+* [Namaste Javascript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Covers the depth from basics
